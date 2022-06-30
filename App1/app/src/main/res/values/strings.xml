@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="imie_label">Imię:</string>
+    <string name="nazwisko_label">Nazwisko:</string>
+    <string name="nazwisko_placeholder">Wpisz nazwisko</string>
+    <string name="imie_placeholder">Wpisz imię</string>
+    <string name="liczba_placeholder">Wpisz liczbę ocen (5-15)</string>
+    <string name="liczba_label">Liczba ocen:</string>
+    <string name="oceny_button_text">Oceny</string>
+    <string name="aktywnosc_label_oceny">Aktywnosc Ocen</string>
+    <string name="oblicz_redni">Oblicz średnią</string>
+
+    <string-array name="przedmioty">
+        <item>Biologia</item>
+        <item>Matematyka</item>
+        <item>Fizyka</item>
+        <item>Polski</item>
+        <item>Informatyka</item>
+        <item>Chemia</item>
+        <item>Geografia</item>
+        <item>Angielski</item>
+        <item>Wychowanie fizyczne</item>
+        <item>Histroia</item>
+        <item>Niemiecki</item>
+        <item>Technika</item>
+        <item>Plastyka</item>
+        <item>CPP</item>
+        <item>Java</item>
+    </string-array>
+
+</resources>
