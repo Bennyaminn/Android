@@ -1,0 +1,1 @@
+Czemy table layout tworzy się z trzema kolumanmi...?
